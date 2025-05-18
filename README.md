@@ -21,7 +21,7 @@ cookiecutter https://github.com/mullenlucas/repocookier-template.git
 
 O si no encuentra en el PATH:
 
+> `cd ..`
 ```
-cd ..
 python -m cookiecutter https://github.com/mullenlucas/repocookier-template.git
 ```
