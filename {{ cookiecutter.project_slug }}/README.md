@@ -17,15 +17,18 @@
 
 ## Setup
 
-> From cookiecutter
+**From cookiecutter**
 
-```
-cd {{ cookiecutter.project_name }}
-```
+> `cd {{ cookiecutter.project_name }}`
 
 ```
 git init
 git remote add origin https://github.com/{{ cookiecutter.username }}/{{ cookiecutter.project_name }}.git
+```
+
+```
+git add .
+git commit -m "Initial commit for building from template"
 git push -u origin main
 ```
 
