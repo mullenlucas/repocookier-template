@@ -1,0 +1,5 @@
+{{ cookiecutter.venv_dir }}/
+__pycache__/
+
+.env
+*.pyc
