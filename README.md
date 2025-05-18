@@ -1,6 +1,8 @@
 # repocookier-template
 A cookiecutter repository for building repositories with customized template
 
+PYTHON
+
 # Usage
 
 ## Install cookiecutter locally
