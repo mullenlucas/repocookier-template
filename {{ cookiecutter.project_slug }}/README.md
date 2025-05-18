@@ -9,10 +9,25 @@
 
 ## Table of Contents
 
+* [Set up from Cookiecutter](#setup)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
+
+## Setup
+
+> From cookiecutter
+
+```
+cd {{ cookiecutter.project_name }}
+```
+
+```
+git init
+git remote add origin https://github.com/{{ cookiecutter.username }}/{{ cookiecutter.project_name }}.git
+git push -u origin main
+```
 
 ## Installation
 
