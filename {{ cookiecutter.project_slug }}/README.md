@@ -33,7 +33,7 @@ python -m venv {{ cookiecutter.venv_dir }}
 **Windows:**
 
 ```bash
-.\{{ cookiecutter.venv_dir }}\Scripts\activate
+./{{ cookiecutter.venv_dir }}/Scripts/activate
 ```
 
 **macOS/Linux:**
