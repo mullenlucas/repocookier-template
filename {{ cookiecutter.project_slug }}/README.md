@@ -1,11 +1,11 @@
-# {{ cookiecutter.project\_name }}
+# {{ cookiecutter.project_name }}
 
 {{ cookiecutter.description }}
 
 ## Requirements
 
-[!\[Python Version\](https://img.shields.io/badge/python-{{ cookiecutter.python\_version }}-blue.svg)]()
-* Python {{ cookiecutter.python\_version }} or higher
+[!\[Python Version\](https://img.shields.io/badge/python-{{ cookiecutter.python_version }}-blue.svg)]()
+* Python {{ cookiecutter.python_version }} or higher
 
 ## Table of Contents
 
